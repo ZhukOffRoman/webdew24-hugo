@@ -1,0 +1,4 @@
+baseURL = 'http://localhost/'
+languageCode = 'ru'
+title = 'Audi 100'
+theme = 'ananke'
